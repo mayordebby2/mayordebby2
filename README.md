@@ -64,6 +64,7 @@ I build dashboards that provide real value, uncovers meaningful trends from data
 
 ### Student Mental Health Dashboard
 Analysis of the impact of mental health on student academic performance.
+Learn more about it here https://github.com/mayordebby2/Student-Mental-Health-Dashboard
 
 ### Global Debt Dashboard
 Insights into debt trends and economic indicators.
