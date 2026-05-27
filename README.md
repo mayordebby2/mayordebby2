@@ -73,11 +73,11 @@ I build dashboards that provide real value, uncovers meaningful trends from data
 
 📊 Revenue Analysis Dashboard – https://app.powerbi.com/links/AndmmsQuqn?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
-📊 Sales Data Dashboard – https://app.powerbi.com/links/8Z78tKPdM9?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+📊 Workshop Data Dashboard – https://app.powerbi.com/links/8Z78tKPdM9?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
 📊 Air Crash Dashboard – https://app.powerbi.com/links/XvMrq5arCq?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
-📊 Stock Exchange Dashboard - https://app.powerbi.com/links/AndmmsQuqn?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+📊 Stock Exchange Dashboard - https://app.powerbi.com/links/DCX2_xTlfY?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
 📊 Retail Sales Dashboard – https://app.powerbi.com/links/UNFPYAIGoC?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
