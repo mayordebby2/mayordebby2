@@ -60,17 +60,30 @@ I build dashboards that provide real value, uncovers meaningful trends from data
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
 
-## Featured Projects
 
-### Student Mental Health Dashboard
-Analysis of the impact of mental health on student academic performance.
-Learn more about it here https://github.com/mayordebby2/Student-Mental-Health-Dashboard
+## My Power BI Portfolio
 
-### Global Debt Dashboard
-Insights into debt trends and economic indicators.
+📊 Global Debt Dashboard – https://app.powerbi.com/links/4Y25WqL_gH?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
-### Supply Chain Intelligence Dashboard
-Business intelligence dashboard for operational performance.
+📊 Bliss Restuarant Dashboard – https://app.powerbi.com/links/V6_W5tVhhX?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Car Sales Dashboard – https://app.powerbi.com/links/wL8tZ_bTaJ?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Revenue Analysis Dashboard – https://app.powerbi.com/links/AndmmsQuqn?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Sales Data Dashboard – https://app.powerbi.com/links/8Z78tKPdM9?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Air Crash Dashboard – https://app.powerbi.com/links/XvMrq5arCq?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Stock Exchange Dashboard - https://app.powerbi.com/links/AndmmsQuqn?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Retail Sales Dashboard – https://app.powerbi.com/links/UNFPYAIGoC?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Student Mental Health Dashboard – https://app.powerbi.com/links/pB62GaMwil?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+📊 Tata Online Retail Dashboard - https://app.powerbi.com/links/9J0_W2GctF?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
+
 
 ## Connect with me
 
