@@ -65,6 +65,8 @@ I build dashboards that provide real value, uncovers meaningful trends from data
 
 📊 Global Debt Dashboard – https://app.powerbi.com/links/4Y25WqL_gH?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
+📊 Student Mental Health Dashboard – https://app.powerbi.com/links/pB62GaMwil?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
+
 📊 Bliss Restuarant Dashboard – https://app.powerbi.com/links/V6_W5tVhhX?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
 📊 Car Sales Dashboard – https://app.powerbi.com/links/wL8tZ_bTaJ?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
@@ -78,8 +80,6 @@ I build dashboards that provide real value, uncovers meaningful trends from data
 📊 Stock Exchange Dashboard - https://app.powerbi.com/links/AndmmsQuqn?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
 📊 Retail Sales Dashboard – https://app.powerbi.com/links/UNFPYAIGoC?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
-
-📊 Student Mental Health Dashboard – https://app.powerbi.com/links/pB62GaMwil?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
 📊 Tata Online Retail Dashboard - https://app.powerbi.com/links/9J0_W2GctF?ctid=a29037ad-c24c-47f1-b52f-ec3218d5c4e9&pbi_source=linkShare
 
