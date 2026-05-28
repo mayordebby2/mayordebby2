@@ -18,7 +18,7 @@ I am a Data Analyst passionate about helping organizations make sense of their d
 I build dashboards that provide real value, uncovers meaningful trends from data, and turns raw information into insights through Power BI, Excel, SQL, DAX, and data modeling. I enjoy working on projects across healthcare analytics, public health research, supply chain intelligence, and business analytics, where data can drive real-world impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://mayordeeby2.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://mayordebby2.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
